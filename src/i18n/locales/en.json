@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "DevCraft | Custom Software Development",
+    "description": "DevCraft - Custom software development and digital solutions for modern businesses."
+  },
+  "header": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "process": "Process",
+      "about": "About",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "cta": "Get Started"
+  },
+  "hero": {
+    "badge": "Innovative Solutions",
+    "title": "Custom Software",
+    "subtitle": "Tailored For Your Business",
+    "description": "We create powerful, scalable software solutions designed specifically for your unique business challenges.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Learn More"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We deliver comprehensive software solutions to help your business thrive in the digital era.",
+    "items": {
+      "custom": {
+        "title": "Custom Software Development",
+        "description": "Bespoke software solutions tailored to meet your specific business needs, processes and workflows."
+      },
+      "web": {
+        "title": "Web Application Development",
+        "description": "Powerful, responsive web applications built with the latest technologies for seamless user experiences."
+      },
+      "mobile": {
+        "title": "Mobile App Development",
+        "description": "Native and cross-platform mobile applications that engage users and extend your business reach."
+      },
+      "design": {
+        "title": "UX/UI Design",
+        "description": "User-centered design that enhances usability, accessibility, and creates delightful user experiences."
+      },
+      "database": {
+        "title": "Database Management",
+        "description": "Robust database solutions that ensure data integrity, security, and optimal performance."
+      },
+      "cloud": {
+        "title": "Cloud Solutions",
+        "description": "Scalable cloud infrastructure and migrations that enhance flexibility, security, and cost-efficiency."
+      }
+    },
+    "learnMore": "Learn More"
+  },
+  "process": {
+    "title": "Our Development Process",
+    "subtitle": "We follow a proven methodology to ensure successful delivery of your software solutions.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery & Analysis",
+        "description": "We begin by understanding your business goals, challenges, and requirements through in-depth consultations."
+      },
+      "planning": {
+        "title": "Planning & Design",
+        "description": "Our team creates a detailed project roadmap and designs the architecture and user interfaces."
+      },
+      "development": {
+        "title": "Development",
+        "description": "We build your software using agile methodologies, with regular updates and demonstrations."
+      },
+      "testing": {
+        "title": "Testing & QA",
+        "description": "Rigorous testing ensures your software is reliable, secure, and performs optimally."
+      },
+      "deployment": {
+        "title": "Deployment",
+        "description": "We carefully deploy your solution to production, ensuring a smooth transition."
+      },
+      "support": {
+        "title": "Support & Growth",
+        "description": "Our relationship continues with ongoing support, maintenance, and future enhancements."
+      }
+    },
+    "step": "Step"
+  },
+  "about": {
+    "title": "About DevCraft",
+    "subtitle": "We transform ideas into powerful software solutions that drive business growth.",
+    "description": {
+      "part1": "Founded in 2013, DevCraft has been at the forefront of custom software development, helping businesses across industries leverage technology to overcome challenges and capitalize on opportunities. Our team of seasoned developers, designers, and project managers work collaboratively to deliver solutions that exceed expectations.",
+      "part2": "We pride ourselves on our technical expertise, our commitment to quality, and our client-focused approach. At DevCraft, we don't just build software — we build partnerships that drive success."
+    },
+    "stats": {
+      "experience": {
+        "value": "10+",
+        "label": "Years of Experience"
+      },
+      "projects": {
+        "value": "200+",
+        "label": "Projects Completed"
+      },
+      "developers": {
+        "value": "50+",
+        "label": "Expert Developers"
+      },
+      "awards": {
+        "value": "15+",
+        "label": "Industry Awards"
+      }
+    },
+    "cta": "Contact Us"
+  },
+  "testimonials": {
+    "title": "Client Testimonials",
+    "subtitle": "Hear what our clients have to say about working with us.",
+    "items": {
+      "1": {
+        "quote": "DevCraft transformed our business with a custom CRM that perfectly fits our workflow. Their team was professional, responsive, and delivered exactly what we needed on time and within budget.",
+        "author": "Sarah Johnson",
+        "position": "COO",
+        "company": "TechGrowth Inc."
+      },
+      "2": {
+        "quote": "Working with DevCraft on our e-commerce platform was a game-changer. Their attention to detail and technical expertise helped us increase our online sales by 200% within six months of launch.",
+        "author": "Michael Chen",
+        "position": "Founder",
+        "company": "RetailNova"
+      },
+      "3": {
+        "quote": "The mobile app DevCraft built for our healthcare service received outstanding feedback from our users. Their understanding of UX principles and HIPAA compliance requirements was impressive.",
+        "author": "Emily Rodriguez",
+        "position": "Director of Technology",
+        "company": "MediCare Solutions"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to Transform Your Business?",
+    "subtitle": "Let's discuss how our custom software solutions can help you achieve your business goals.",
+    "buttons": {
+      "primary": "Get in Touch",
+      "secondary": "Our Services"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have a project in mind? We'd love to hear about it. Contact us to discuss your software needs.",
+    "info": {
+      "title": "Contact Information",
+      "phone": {
+        "label": "Phone",
+        "value": "(123) 456-7890"
+      },
+      "email": {
+        "label": "Email",
+        "value": "contact@devcraft.com"
+      },
+      "office": {
+        "label": "Office",
+        "address": {
+          "street": "123 Innovation Street",
+          "city": "Tech City, 10001"
+        }
+      },
+      "social": {
+        "title": "Follow Us"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "Name",
+        "placeholder": "Your Name"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "your.email@example.com"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "(123) 456-7890"
+      },
+      "subject": {
+        "label": "Subject",
+        "placeholder": "Select a subject",
+        "options": {
+          "custom": "Custom Software Development",
+          "web": "Web Application",
+          "mobile": "Mobile App",
+          "design": "UX/UI Design",
+          "other": "Other"
+        }
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your project and requirements..."
+      },
+      "submit": "Send Message"
+    }
+  },
+  "footer": {
+    "description": "Crafting innovative software solutions tailored to your business needs.",
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "services": {
+      "title": "Services"
+    },
+    "contact": {
+      "title": "Contact Us"
+    },
+    "copyright": "© {year} DevCraft. All rights reserved."
+  }
+}

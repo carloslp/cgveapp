@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "title": "DevCraft | Desarrollo de Software a Medida",
+    "description": "DevCraft - Desarrollo de software personalizado y soluciones digitales para empresas modernas."
+  },
+  "header": {
+    "nav": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "process": "Proceso",
+      "about": "Nosotros",
+      "testimonials": "Testimonios",
+      "contact": "Contacto"
+    },
+    "cta": "Comenzar"
+  },
+  "hero": {
+    "badge": "Soluciones Innovadoras",
+    "title": "Software a Medida",
+    "subtitle": "Diseñado para tu Negocio",
+    "description": "Creamos soluciones de software potentes y escalables diseñadas específicamente para los desafíos únicos de tu negocio.",
+    "cta": {
+      "primary": "Comenzar",
+      "secondary": "Saber Más"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Ofrecemos soluciones de software integrales para ayudar a tu negocio a prosperar en la era digital.",
+    "items": {
+      "custom": {
+        "title": "Desarrollo de Software a Medida",
+        "description": "Soluciones de software personalizadas adaptadas a tus necesidades específicas, procesos y flujos de trabajo."
+      },
+      "web": {
+        "title": "Desarrollo de Aplicaciones Web",
+        "description": "Aplicaciones web potentes y responsivas construidas con las últimas tecnologías para experiencias de usuario perfectas."
+      },
+      "mobile": {
+        "title": "Desarrollo de Aplicaciones Móviles",
+        "description": "Aplicaciones móviles nativas y multiplataforma que involucran a los usuarios y extienden el alcance de tu negocio."
+      },
+      "design": {
+        "title": "Diseño UX/UI",
+        "description": "Diseño centrado en el usuario que mejora la usabilidad, accesibilidad y crea experiencias de usuario deleitables."
+      },
+      "database": {
+        "title": "Gestión de Bases de Datos",
+        "description": "Soluciones robustas de bases de datos que garantizan la integridad, seguridad y rendimiento óptimo."
+      },
+      "cloud": {
+        "title": "Soluciones en la Nube",
+        "description": "Infraestructura en la nube escalable y migraciones que mejoran la flexibilidad, seguridad y eficiencia en costos."
+      }
+    },
+    "learnMore": "Saber Más"
+  },
+  "process": {
+    "title": "Nuestro Proceso de Desarrollo",
+    "subtitle": "Seguimos una metodología probada para garantizar la entrega exitosa de tus soluciones de software.",
+    "steps": {
+      "discovery": {
+        "title": "Descubrimiento y Análisis",
+        "description": "Comenzamos comprendiendo tus objetivos comerciales, desafíos y requisitos a través de consultas detalladas."
+      },
+      "planning": {
+        "title": "Planificación y Diseño",
+        "description": "Nuestro equipo crea una hoja de ruta detallada y diseña la arquitectura e interfaces de usuario."
+      },
+      "development": {
+        "title": "Desarrollo",
+        "description": "Construimos tu software utilizando metodologías ágiles, con actualizaciones y demostraciones regulares."
+      },
+      "testing": {
+        "title": "Pruebas y Control de Calidad",
+        "description": "Pruebas rigurosas aseguran que tu software sea confiable, seguro y tenga un rendimiento óptimo."
+      },
+      "deployment": {
+        "title": "Implementación",
+        "description": "Implementamos cuidadosamente tu solución en producción, asegurando una transición suave."
+      },
+      "support": {
+        "title": "Soporte y Crecimiento",
+        "description": "Nuestra relación continúa con soporte continuo, mantenimiento y mejoras futuras."
+      }
+    },
+    "step": "Paso"
+  },
+  "about": {
+    "title": "Sobre DevCraft",
+    "subtitle": "Transformamos ideas en poderosas soluciones de software que impulsan el crecimiento empresarial.",
+    "description": {
+      "part1": "Fundada en 2013, DevCraft ha estado a la vanguardia del desarrollo de software personalizado, ayudando a empresas de diferentes industrias a aprovechar la tecnología para superar desafíos y capitalizar oportunidades. Nuestro equipo de desarrolladores experimentados, diseñadores y gerentes de proyecto trabajan en colaboración para entregar soluciones que superan las expectativas.",
+      "part2": "Nos enorgullecemos de nuestra experiencia técnica, nuestro compromiso con la calidad y nuestro enfoque centrado en el cliente. En DevCraft, no solo construimos software, construimos asociaciones que impulsan el éxito."
+    },
+    "stats": {
+      "experience": {
+        "value": "10+",
+        "label": "Años de Experiencia"
+      },
+      "projects": {
+        "value": "200+",
+        "label": "Proyectos Completados"
+      },
+      "developers": {
+        "value": "50+",
+        "label": "Desarrolladores Expertos"
+      },
+      "awards": {
+        "value": "15+",
+        "label": "Premios de la Industria"
+      }
+    },
+    "cta": "Contáctanos"
+  },
+  "testimonials": {
+    "title": "Testimonios de Clientes",
+    "subtitle": "Escucha lo que nuestros clientes tienen que decir sobre trabajar con nosotros.",
+    "items": {
+      "1": {
+        "quote": "DevCraft transformó nuestro negocio con un CRM personalizado que se ajusta perfectamente a nuestro flujo de trabajo. Su equipo fue profesional, receptivo y entregó exactamente lo que necesitábamos a tiempo y dentro del presupuesto.",
+        "author": "Sarah Johnson",
+        "position": "COO",
+        "company": "TechGrowth Inc."
+      },
+      "2": {
+        "quote": "Trabajar con DevCraft en nuestra plataforma de comercio electrónico fue un cambio radical. Su atención al detalle y experiencia técnica nos ayudó a aumentar nuestras ventas en línea en un 200% dentro de los seis meses posteriores al lanzamiento.",
+        "author": "Michael Chen",
+        "position": "Fundador",
+        "company": "RetailNova"
+      },
+      "3": {
+        "quote": "La aplicación móvil que DevCraft construyó para nuestro servicio de salud recibió comentarios sobresalientes de nuestros usuarios. Su comprensión de los principios de UX y los requisitos de cumplimiento de HIPAA fue impresionante.",
+        "author": "Emily Rodriguez",
+        "position": "Directora de Tecnología",
+        "company": "MediCare Solutions"
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para Transformar tu Negocio?",
+    "subtitle": "Hablemos sobre cómo nuestras soluciones de software personalizadas pueden ayudarte a alcanzar tus objetivos comerciales.",
+    "buttons": {
+      "primary": "Contáctanos",
+      "secondary": "Nuestros Servicios"
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "¿Tienes un proyecto en mente? Nos encantaría escucharlo. Contáctanos para discutir tus necesidades de software.",
+    "info": {
+      "title": "Información de Contacto",
+      "phone": {
+        "label": "Teléfono",
+        "value": "(123) 456-7890"
+      },
+      "email": {
+        "label": "Correo",
+        "value": "contact@devcraft.com"
+      },
+      "office": {
+        "label": "Oficina",
+        "address": {
+          "street": "123 Calle Innovación",
+          "city": "Ciudad Tech, 10001"
+        }
+      },
+      "social": {
+        "title": "Síguenos"
+      }
+    },
+    "form": {
+      "name": {
+        "label": "Nombre",
+        "placeholder": "Tu Nombre"
+      },
+      "email": {
+        "label": "Correo",
+        "placeholder": "tu.correo@ejemplo.com"
+      },
+      "phone": {
+        "label": "Teléfono",
+        "placeholder": "(123) 456-7890"
+      },
+      "subject": {
+        "label": "Asunto",
+        "placeholder": "Selecciona un asunto",
+        "options": {
+          "custom": "Desarrollo de Software a Medida",
+          "web": "Aplicación Web",
+          "mobile": "Aplicación Móvil",
+          "design": "Diseño UX/UI",
+          "other": "Otro"
+        }
+      },
+      "message": {
+        "label": "Mensaje",
+        "placeholder": "Cuéntanos sobre tu proyecto y requisitos..."
+      },
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "description": "Creando soluciones de software innovadoras adaptadas a las necesidades de tu negocio.",
+    "quickLinks": {
+      "title": "Enlaces Rápidos"
+    },
+    "services": {
+      "title": "Servicios"
+    },
+    "contact": {
+      "title": "Contáctanos"
+    },
+    "copyright": "© {year} DevCraft. Todos los derechos reservados."
+  }
+}
