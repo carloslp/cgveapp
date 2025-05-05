@@ -16,7 +16,8 @@ const CTA: React.FC = () => {
           </p>
           <div className="flex flex-col sm:flex-row justify-center space-y-3 sm:space-y-0 sm:space-x-4">
             <Button text={t('cta.buttons.primary')} href="#contact" variant="secondary" size="lg" />
-            <Button text={t('cta.buttons.secondary')} href="#services" variant="outline" size="lg" />
+{/*             <Button text={t('cta.buttons.secondary')} href="#services" variant="outline" size="lg" /> */}
+            <Button text={t('cta.buttons.secondary')} href="#services" variant="primary" size="lg" />
           </div>
         </div>
       </Container>
