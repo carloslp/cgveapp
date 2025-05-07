@@ -160,13 +160,13 @@
       },
       "email": {
         "label": "Correo",
-        "value": "contact@CGVE App.com"
+        "value": "contacto@cgve.app"
       },
       "office": {
         "label": "Oficina",
         "address": {
-          "street": "123 Calle Innovación",
-          "city": "Ciudad Tech, 10001"
+          "street": "",
+          "city": "Culiacan, Sinaloa"
         }
       },
       "social": {
