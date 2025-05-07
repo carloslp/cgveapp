@@ -51,6 +51,10 @@
       "cloud": {
         "title": "Soluciones en la Nube",
         "description": "Infraestructura en la nube escalable y migraciones que mejoran la flexibilidad, seguridad y eficiencia en costos."
+      },
+      "whatsapp": {
+        "title": "Automatizacion de Mensajeria",
+        "description": "Automatiza tu comunicación. Envía mensajes personalizados y oportunos sin esfuerzo. Ahorra tiempo y mejora la interacción con clientes. ¡Más eficiencia!."
       }
     },
     "learnMore": "Saber Más"
