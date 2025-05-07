@@ -110,7 +110,7 @@ const Contact: React.FC = () => {
           </div>
 
           <div>
-            <form onSubmit={handleSubmit} className="space-y-6">
+{/*             <form onSubmit={handleSubmit} className="space-y-6">
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <div>
                   <label className="block text-sm font-medium text-gray-700 mb-1">
@@ -200,7 +200,7 @@ const Contact: React.FC = () => {
                   {t('contact.form.submit')}
                 </button>
               </div>
-            </form>
+            </form> */}
           </div>
         </div>
       </Container>
