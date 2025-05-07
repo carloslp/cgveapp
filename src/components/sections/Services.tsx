@@ -4,7 +4,7 @@ import Container from '../ui/Container';
 import SectionTitle from '../ui/SectionTitle';
 import Card from '../ui/Card';
 import Button from '../ui/Button';
-import { Code, Smartphone, Globe, PencilRuler, Database, Cloud } from 'lucide-react';
+import { Code, Smartphone, Globe, PencilRuler, Database, Cloud, MessageCircleMore  } from 'lucide-react';
 
 type ServiceProps = {
   icon: React.ReactNode;
@@ -38,25 +38,30 @@ const Services: React.FC = () => {
       title: t('services.items.web.title'),
       description: t('services.items.web.description')
     },
-    {
-      icon: <Smartphone size={40} />,
-      title: t('services.items.mobile.title'),
-      description: t('services.items.mobile.description')
-    },
-    {
-      icon: <PencilRuler size={40} />,
-      title: t('services.items.design.title'),
-      description: t('services.items.design.description')
-    },
-    {
-      icon: <Database size={40} />,
-      title: t('services.items.database.title'),
-      description: t('services.items.database.description')
-    },
+    // {
+    //   icon: <Smartphone size={40} />,
+    //   title: t('services.items.mobile.title'),
+    //   description: t('services.items.mobile.description')
+    // },
+    // {
+    //   icon: <PencilRuler size={40} />,
+    //   title: t('services.items.design.title'),
+    //   description: t('services.items.design.description')
+    // },
+    // {
+    //   icon: <Database size={40} />,
+    //   title: t('services.items.database.title'),
+    //   description: t('services.items.database.description')
+    // },
     {
       icon: <Cloud size={40} />,
       title: t('services.items.cloud.title'),
       description: t('services.items.cloud.description')
+    },
+    {
+      icon: <MessageCircleMore size={40} />,
+      title: t('services.items.whatsapp.title'),
+      description: t('services.items.whatsapp.description')
     }
   ];
 
