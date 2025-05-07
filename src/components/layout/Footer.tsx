@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center mb-4">
               <Code size={24} className="text-blue-400 mr-2" />
-              <span className="text-xl font-bold">DevCraft</span>
+              <span className="text-xl font-bold">CGVE App</span>
             </div>
             <p className="text-gray-400 mb-4">
               {t('footer.description')}
