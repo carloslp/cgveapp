@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "DevCraft | Desarrollo de Software a Medida",
-    "description": "DevCraft - Desarrollo de software personalizado y soluciones digitales para empresas modernas."
+    "title": "CGVE App | Desarrollo de Software a Medida",
+    "description": "CGVE App - Desarrollo de software personalizado y soluciones digitales para empresas modernas."
   },
   "header": {
     "nav": {
@@ -87,11 +87,11 @@
     "step": "Paso"
   },
   "about": {
-    "title": "Sobre DevCraft",
+    "title": "Sobre CGVE App",
     "subtitle": "Transformamos ideas en poderosas soluciones de software que impulsan el crecimiento empresarial.",
     "description": {
-      "part1": "Fundada en 2013, DevCraft ha estado a la vanguardia del desarrollo de software personalizado, ayudando a empresas de diferentes industrias a aprovechar la tecnología para superar desafíos y capitalizar oportunidades. Nuestro equipo de desarrolladores experimentados, diseñadores y gerentes de proyecto trabajan en colaboración para entregar soluciones que superan las expectativas.",
-      "part2": "Nos enorgullecemos de nuestra experiencia técnica, nuestro compromiso con la calidad y nuestro enfoque centrado en el cliente. En DevCraft, no solo construimos software, construimos asociaciones que impulsan el éxito."
+      "part1": "Fundada en 2013, CGVE App ha estado a la vanguardia del desarrollo de software personalizado, ayudando a empresas de diferentes industrias a aprovechar la tecnología para superar desafíos y capitalizar oportunidades. Nuestro equipo de desarrolladores experimentados, diseñadores y gerentes de proyecto trabajan en colaboración para entregar soluciones que superan las expectativas.",
+      "part2": "Nos enorgullecemos de nuestra experiencia técnica, nuestro compromiso con la calidad y nuestro enfoque centrado en el cliente. En CGVE App, no solo construimos software, construimos asociaciones que impulsan el éxito."
     },
     "stats": {
       "experience": {
@@ -118,19 +118,19 @@
     "subtitle": "Escucha lo que nuestros clientes tienen que decir sobre trabajar con nosotros.",
     "items": {
       "1": {
-        "quote": "DevCraft transformó nuestro negocio con un CRM personalizado que se ajusta perfectamente a nuestro flujo de trabajo. Su equipo fue profesional, receptivo y entregó exactamente lo que necesitábamos a tiempo y dentro del presupuesto.",
+        "quote": "CGVE App transformó nuestro negocio con un CRM personalizado que se ajusta perfectamente a nuestro flujo de trabajo. Su equipo fue profesional, receptivo y entregó exactamente lo que necesitábamos a tiempo y dentro del presupuesto.",
         "author": "Sarah Johnson",
         "position": "COO",
         "company": "TechGrowth Inc."
       },
       "2": {
-        "quote": "Trabajar con DevCraft en nuestra plataforma de comercio electrónico fue un cambio radical. Su atención al detalle y experiencia técnica nos ayudó a aumentar nuestras ventas en línea en un 200% dentro de los seis meses posteriores al lanzamiento.",
+        "quote": "Trabajar con CGVE App en nuestra plataforma de comercio electrónico fue un cambio radical. Su atención al detalle y experiencia técnica nos ayudó a aumentar nuestras ventas en línea en un 200% dentro de los seis meses posteriores al lanzamiento.",
         "author": "Michael Chen",
         "position": "Fundador",
         "company": "RetailNova"
       },
       "3": {
-        "quote": "La aplicación móvil que DevCraft construyó para nuestro servicio de salud recibió comentarios sobresalientes de nuestros usuarios. Su comprensión de los principios de UX y los requisitos de cumplimiento de HIPAA fue impresionante.",
+        "quote": "La aplicación móvil que CGVE App construyó para nuestro servicio de salud recibió comentarios sobresalientes de nuestros usuarios. Su comprensión de los principios de UX y los requisitos de cumplimiento de HIPAA fue impresionante.",
         "author": "Emily Rodriguez",
         "position": "Directora de Tecnología",
         "company": "MediCare Solutions"
@@ -156,7 +156,7 @@
       },
       "email": {
         "label": "Correo",
-        "value": "contact@devcraft.com"
+        "value": "contact@CGVE App.com"
       },
       "office": {
         "label": "Oficina",
@@ -211,6 +211,6 @@
     "contact": {
       "title": "Contáctanos"
     },
-    "copyright": "© {year} DevCraft. Todos los derechos reservados."
+    "copyright": "© 2025 CGVE App. Todos los derechos reservados."
   }
 }
